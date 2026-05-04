@@ -114,8 +114,8 @@
 
 <h2 align="Left">My Stats</h2>
 <div align="center">
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knightmar" alt="knightmar" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=knightmar&show_icons=true&locale=en" alt="knightmar" /></p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AvenReal" alt="AvenReal" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AvenReal&show_icons=true&locale=en" alt="AvenReal" /></p>
 </div>
 
 <h2 align="Left">My Social Media</h2>
