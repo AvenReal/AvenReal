@@ -84,8 +84,7 @@
 <h2 align="Left">My Projects</h2>
 
 
-<div align="center" style="display: grid;  grid-template-columns: 1fr 1fr; /* Two columns of equal width */  grid-template-rows: 1fr 1fr; /* Two rows of equal height */  gap: 10px; /* Space between grid items */
-">
+<div align="left">
   <div>
     <a href="https://github.com/AvenReal/TUIS">
         <img src="https://github.com/AvenReal/TUIS/blob/master/Images/favicon.png?raw=true" height="40" alt="TUIS Logo"  />
@@ -112,7 +111,7 @@
   </div>
 </div>
 
-<h2 align="Left">My Stats</h2>
+<h2 align="left">My Stats</h2>
 <div align="center">
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AvenReal" alt="AvenReal" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AvenReal&show_icons=true&locale=en" alt="AvenReal" /></p>
