@@ -80,6 +80,9 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
+###
+<h2 align="My Projects">Who am I</h2>
+###
 <div align="center" style="display: grid;  grid-template-columns: 1fr 1fr; /* Two columns of equal width */  grid-template-rows: 1fr 1fr; /* Two rows of equal height */  gap: 10px; /* Space between grid items */
 ">
   <div>
@@ -107,4 +110,3 @@
 	</a>
   </div>
 </div>
-###
