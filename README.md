@@ -4,7 +4,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-<h2 align="left">Who am I</h2>
+<h2 align="left">Who am I ?</h2>
 
 <p align="left">I am a <a href="https://www.epita.fr/">EPITA</a> French student who loves programming and learning about computer science and new technologies.</p>
 
@@ -110,4 +110,15 @@
         <p style="width:150px;">A Unity Multiplayer Game</p>
 	</a>
   </div>
+</div>
+
+<h2 align="Left">My Stats</h2>
+<div align="center">
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knightmar" alt="knightmar" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=knightmar&show_icons=true&locale=en" alt="knightmar" /></p>
+</div>
+
+<h2 align="Left">My Social Media</h2>
+<div align="left">
+  <a href="https://discord.com/users/aven_rr"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreelogopng.com%2Fimages%2Fall_img%2F1691730767discord-logo-transparent.png&f=1&nofb=1&ipt=ebb7bb4e1cd6dcf16b9079a1179698ea4025507120f7111db5c0c8bdb0773576" height="40" alt="discord logo"  /></a>
 </div>
