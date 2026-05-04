@@ -1,22 +1,21 @@
 <h1 align="center">AvenReal</h1>
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-###
+
 <h2 align="left">Who am I</h2>
-###
+
 <p align="left">I am a [https://www.epita.fr/](EPITA) French student who loves programming and learning about computer science and new technologies.</p>
-###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-###
+
 <h2 align="left">The Technologies I use</h2>
-###
+
 <h3 align="left">Programming Languages</h3>
-###
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
   <img width="12" />
@@ -27,11 +26,11 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
-###
+
 
 <h3 align="left">Web Development</h3>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -41,11 +40,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
-###
+
 
 <h3 align="left">Software</h3>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -61,11 +60,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
-###
+
 
 <h3 align="left">Tools</h3>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -75,14 +74,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"  />
 </div>
 
-###
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-###
+
+
 <h2 align="My Projects">Who am I</h2>
-###
+
+
 <div align="center" style="display: grid;  grid-template-columns: 1fr 1fr; /* Two columns of equal width */  grid-template-rows: 1fr 1fr; /* Two rows of equal height */  gap: 10px; /* Space between grid items */
 ">
   <div>
