@@ -81,7 +81,7 @@
 </div>
 
 
-<h2 align="My Projects">Who am I</h2>
+<h2 align="Left">My Projects</h2>
 
 
 <div align="center" style="display: grid;  grid-template-columns: 1fr 1fr; /* Two columns of equal width */  grid-template-rows: 1fr 1fr; /* Two rows of equal height */  gap: 10px; /* Space between grid items */
