@@ -6,7 +6,7 @@
 
 <h2 align="left">Who am I</h2>
 
-<p align="left">I am a [https://www.epita.fr/](EPITA) French student who loves programming and learning about computer science and new technologies.</p>
+<p align="left">I am a <a href="https://www.epita.fr/">EPITA</a> French student who loves programming and learning about computer science and new technologies.</p>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
